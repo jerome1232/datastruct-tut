@@ -4,7 +4,7 @@
 
 ## TOC
 
-* [Basic Data Structures](welcome.md)
+* [Basic Data Structures](index.md)
 * [Stacks](1-topic.md)
 * [Linked lists](2-topic.md)
 * [Binary Trees](3-topic.md)
@@ -37,7 +37,7 @@ finding data. It's a **Binary Search Tree** or **BST** for short.
 
 But before we talk in depth about **BST**'s we must discussion **recursion**.
 **Recursive** algorithm's are often used with **BST**'s. Recall back
-in the very first [Introduction](welcome.md#big-o-notation) module
+in the very first [Introduction](index.md#big-o-notation) module
 when talking about Big O notation a recursive function that
 calculated the fibonacci sequence was introduced. Here is that function again:
 
