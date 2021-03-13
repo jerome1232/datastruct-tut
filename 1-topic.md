@@ -4,7 +4,7 @@
 
 ## TOC
 
-* [Welcome](welcome.md)
+* [Welcome](index.md)
 * [Stacks](1-topic.md)
   * [Introduction](#Introduction-to-Stacks)
   * [Use Cases](#Common-use-cases)
@@ -108,6 +108,6 @@ If you get stuck there is a completed version [here](src/1-topic.py)
 
 [Back to top](#stacks)
 
-[Previous Module](welcome.md)
+[Previous Module](index.md)
 
 [Next Module](2-topic.md)
