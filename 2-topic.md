@@ -4,7 +4,7 @@
 
 ## TOC
 
-* [Welcome](welcome.md)
+* [Welcome](index.md)
 * [Stacks](1-topic.md)
 * [Linked lists](2-topic.md)
    * [Introduction](#Introduction-to-Linked-Lists)
