@@ -4,7 +4,7 @@
 
 ## TOC
 
-* [Welcome](welcome.md)
+* [Welcome](index.md)
     * [Assumptions](#assumptions)
     * [Introduction](#introduction)
     * [Data Structures](#data-structures)
